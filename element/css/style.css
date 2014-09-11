@@ -1,0 +1,167 @@
+#the_bar {
+    width:100%;
+    height:50px;
+    background: #F0F0F0;
+}
+#the_cloud_name {
+    padding-top:20px;
+    float:left;
+    padding-left:50px;
+}
+
+#the_bar_back {
+    padding-left:90%;
+    float:left;
+    padding-top:20px;
+}
+
+
+#left_main_body {
+    height:100%;
+    width:250px;
+    float:left;
+    background: #B9B9B9;
+}
+
+#online_cloud {
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    width:100%;
+}
+
+#doc_cloud {
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    width:100%;
+}
+
+#app_cloud {
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    width:100%;
+}
+
+#set_cloud {
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    width:100%;
+}
+
+#my_first_disk {
+    text-align:center;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+    background:yellow;
+}
+
+#my_second_disk {
+    text-align:center;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+    background:yellow;
+}
+
+#disk_bar {
+    height:50px;
+    width:100%;
+    background:rgb(220,220,236);
+}
+
+#menu_bar {
+    height:40px;
+    width:100%;
+    background:rgb(192,220,236);
+}
+
+
+#menu_back {
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+#menu_create_new_dir{
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+#menu_upload_doc {
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+#menu_onload_doc {
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+#menu_change_name {
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+
+#menu_delete {
+    padding-left:20px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+    float:left;
+}
+
+#all_document {
+    margin-left:-700px;
+    float:left;
+}
+
+#descript_current {
+    padding-left:1650px;
+    float:both;
+}
+
+
+#document_name {
+    float:left;
+    padding-top:10px;
+    padding-left:20px;
+}
+
+#doc_size {
+    float:left;
+    padding-top:10px;
+    padding-left:500px;
+}
+
+#doc_time {
+    float:left;
+    padding-top:10px;
+    padding-left:800px;
+}
+
+#doc_descript {
+    height:40px;
+    width:100%;
+    background:rgb(192,220,236);
+}
